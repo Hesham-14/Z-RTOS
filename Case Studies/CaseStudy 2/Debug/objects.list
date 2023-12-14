@@ -1,0 +1,7 @@
+"Src/main.o"
+"Src/syscalls.o"
+"Src/sysmem.o"
+"Startup/startup_stm32f103c6tx.o"
+"Z_RTOS/CortexMX_OS_porting.o"
+"Z_RTOS/Scheduler.o"
+"Z_RTOS/Z_RTOS_FIFO.o"
